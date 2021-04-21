@@ -24,6 +24,12 @@
       "body": "some comment",
       "postId": 1
     }
+    ,
+    {
+      "id": 79200,
+      "body": "BLEH BLEH BLEH",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
